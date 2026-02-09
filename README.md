@@ -9,7 +9,7 @@
 
 - Spawns animals in **custom maps** where Minecraft doesn’t generate them naturally 
 - Supports multiple animal types: cows, sheeps, pigs, chickens and horses (may add more)
-- Avoids caves, oceans, floating blocks and strange placer where animals shouldn't spawn
+- Avoids caves, oceans, floating blocks and strange places where animals shouldn't spawn
 - Limits spawns per player to reduce lag
 - Works in **singleplayer** and **multiplayer**  
 
@@ -28,7 +28,7 @@
 
 ## How It Works
 
-It simulates the in-game animal spawning in worlds where animals don't spawn (for example in custom Earth maps, which is the reason why I made it).
+It simulates the in-game animal spawning in worlds where animals doesn't spawn (for example in custom Earth maps, which is the reason why I made it).
 
 ### Spawning around players:
 - The datapack checks every player every few seconds (can be configured)
