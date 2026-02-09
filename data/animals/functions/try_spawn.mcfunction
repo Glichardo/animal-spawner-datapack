@@ -1,0 +1,1 @@
+evecute as @a at @s run function animals:find_ground
