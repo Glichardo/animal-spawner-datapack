@@ -1,4 +1,4 @@
-# Animal Spawner Datapack
+# [BROKEN] Animal Spawner Datapack
 
 > **A simple datapack to spawn animals in custom maps where they normally don’t generate.**  
 > *(This is my first Datapack ^^)*  
